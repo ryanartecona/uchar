@@ -1,0 +1,4 @@
+{
+  "name": "ocaml-uchar",
+  "sources": ["src"]
+}
